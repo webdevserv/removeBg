@@ -1,7 +1,6 @@
-## CropSquareFill (recorta, cuadricula y rellena)
+## RemoveBg (Eliminar fondo)
 
-![Alt Text](https://raw.githubusercontent.com/webdevserv/streamlit_component_fill_square_cropper101/main/screens/applicationscreen.JPG
-)  
+![Alt Text](https://raw.githubusercontent.com/webdevserv/portfolio_idoia/master/screens/removebackground.jpg)
 
 ## Contribuciones
 
