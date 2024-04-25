@@ -2,7 +2,6 @@
 
 ![Alt Text](https://raw.githubusercontent.com/webdevserv/portfolio_idoia/master/screens/removebackground.jpg)
 
-
 ## Contributions
  
 Contributions are always welcome!  
